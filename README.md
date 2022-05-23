@@ -26,8 +26,7 @@
 
   ## Description
 
-  bla bla
-
+  This app was built using the MERN stack, with a React front end, MongoDB database, and an Apollo Server and GraphQL API. It allows users to save book searches to the back end.The API calls are made using GraphQL queries and mutations. 
   ## Installation
   Follow these steps to properly install this application:
 
